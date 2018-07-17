@@ -6,6 +6,7 @@
   "scripts": {
     "start": "gulp dev",
     "build": "gulp build",
+    "install": "gulp build",
     "lint": "eslint --ext .js,.jsx src"
   },
   "repository": {
